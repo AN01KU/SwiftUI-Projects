@@ -16,6 +16,7 @@ This repository contains all the projects I completed while learning SwiftUI. Ea
   <img src="./Grocery%20List/Resources/AppIcon.png" width="60" alt="Grocery List">
   <img src="./Hike-App/Resources/App-Icon/AppIcon.png" width="60" alt="Hike App">
   <img src="./Paws-App/Resources/Icons/AppIcon.png" width="60" alt="Paws App">
+  <img src="./Pinch%20App/Students/Pinch/Pinch/Resources/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" width="60" alt="Pinch App">
   <img src="./Restart-App/Resources/AppIcon/Icon-60@3x.png" width="60" alt="Restart App">
   <img src="./Watchlist-App/Resources/AppIcon.png" width="60" alt="Watchlist App">
   <img src="./Wishlist-App/Resources/AppIcon.png" width="60" alt="Wishlist App">
@@ -25,6 +26,7 @@ This repository contains all the projects I completed while learning SwiftUI. Ea
 - **[Grocery List](./Grocery%20List/)** <img src="./Grocery%20List/Resources/AppIcon.png" width="20" alt="Grocery List"> - A grocery shopping list app with SwiftData
 - **[Hike App](./Hike-App/)** <img src="./Hike-App/Resources/App-Icon/AppIcon.png" width="20" alt="Hike App"> - An outdoor hiking companion app
 - **[Paws App](./Paws-App/)** <img src="./Paws-App/Resources/Icons/AppIcon.png" width="20" alt="Paws App"> - A pet management application
+- **[Pinch App](./Pinch%20App/)** <img src="./Pinch%20App/Students/Pinch/Pinch/Resources/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" width="20" alt="Pinch App"> - An interactive image viewer with pinch-to-zoom and pan gestures
 - **[Restart App](./Restart-App/)** <img src="./Restart-App/Resources/AppIcon/Icon-60@3x.png" width="20" alt="Restart App"> - An onboarding and restart experience app
 - **[Watchlist App](./Watchlist-App/)** <img src="./Watchlist-App/Resources/AppIcon.png" width="20" alt="Watchlist App"> - A movie watchlist tracker
 - **[Wishlist App](./Wishlist-App/)** <img src="./Wishlist-App/Resources/AppIcon.png" width="20" alt="Wishlist App"> - A personal wishlist manager
@@ -52,6 +54,7 @@ These projects cover key SwiftUI concepts including:
 - Data persistence with SwiftData
 - Custom components and views
 - Animations and transitions
+- Gesture handling and touch interactions
 - App architecture patterns
 
 ## Getting Started
