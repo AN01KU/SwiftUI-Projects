@@ -22,7 +22,7 @@ This repository contains all the projects I completed while learning SwiftUI. Ea
   <img src="./Wishlist-App/Resources/AppIcon.png" width="60" alt="Wishlist App">
 </div>
 
-- **[ChatBot](./ChatBot/)** - A conversational chatbot interface
+- **[ChatBot](./ChatBot/)** 🤖 - A SwiftUI chatbot app with local Ollama integration featuring DeepSeek R1 model
 - **[Grocery List](./Grocery%20List/)** <img src="./Grocery%20List/Resources/AppIcon.png" width="20" alt="Grocery List"> - A grocery shopping list app with SwiftData
 - **[Hike App](./Hike-App/)** <img src="./Hike-App/Resources/App-Icon/AppIcon.png" width="20" alt="Hike App"> - An outdoor hiking companion app
 - **[Paws App](./Paws-App/)** <img src="./Paws-App/Resources/Icons/AppIcon.png" width="20" alt="Paws App"> - A pet management application
@@ -56,11 +56,23 @@ These projects cover key SwiftUI concepts including:
 - Animations and transitions
 - Gesture handling and touch interactions
 - App architecture patterns
+- Local LLM integration with Ollama
+- Network programming and API clients
+- Real-time chat interfaces
+- App Transport Security (ATS) configuration
 
 ## Getting Started
 
 Each project is self-contained and can be opened independently in Xcode. Navigate to any project's `.xcodeproj` file to get started.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/chatbot-local-llm-demo.png" width="300" alt="ChatBot Local LLM Demo">
+  <br>
+  <em>ChatBot Demo with Ollama Integration</em>
+</div>
+
 ---
 
-_Built with SwiftUI for iOS development learning_
+_Built with SwiftUI for iOS development learning
